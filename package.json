@@ -1,0 +1,24 @@
+{
+  "name": "chatbotestudo",
+  "version": "1.0.0",
+  "description": "Estudo de chatbot para facebook messenger",
+  "main": "index.js",
+  "dependencies": {
+    "create-node-project": "^1.0.2",
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RafaelMagalhaess/ChatBotEstudo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RafaelMagalhaess/ChatBotEstudo/issues"
+  },
+  "homepage": "https://github.com/RafaelMagalhaess/ChatBotEstudo#readme"
+}

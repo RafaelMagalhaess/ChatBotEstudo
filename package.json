@@ -4,8 +4,10 @@
   "description": "Estudo de chatbot para facebook messenger",
   "main": "index.js",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "create-node-project": "^1.0.2",
-    "express": "^4.15.3"
+    "express": "^4.15.3",
+    "request": "^2.81.0"
   },
   "devDependencies": {},
   "scripts": {
